@@ -3,7 +3,7 @@
 <h3 align="center">Unlocking Digital Solutions, One Code at a Time.</h3>
 <!-- **abhaychiradi/abhaychiradi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🌱 I’m currently learning ** React JS **
+- 🌱 I’m currently learning **React JS**
 
 
 <!-- - 💬 Ask me about ... -->
